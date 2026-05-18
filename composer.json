@@ -1,0 +1,14 @@
+{
+    "name": "php-crud-application/u",
+    "description": "A simple PHP CRUD application",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
